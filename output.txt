@@ -1,0 +1,18 @@
+<KEYWORD, int>
+<ID, main>
+<SEPARATOR, (>
+<SEPARATOR, )>
+<SEPARATOR, {>
+<KEYWORD, int>
+<ID, x>
+Unrecognized token: =
+<CONST, 10>
+<SEPARATOR, ;>
+<ID, x>
+<OPERATOR, +>
+<OPERATOR, +>
+<SEPARATOR, ;>
+<ID, return>
+<CONST, 0>
+<SEPARATOR, ;>
+<SEPARATOR, }>
